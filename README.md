@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Abdullah272056/Abdullah272056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am a person who is very passionate about software development since my childhood. I am a capable and adaptable person who is looking forward to learning new techniques, skills, and methods in order to gain experience that can be used in a career in the near and distant future.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
