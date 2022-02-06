@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 
 ![Abdullah github stats](https://github-readme-stats.vercel.app/api?username=Abdullah272056&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah272056&layout=compact)](https://github.com/Abdullah272056/github-readme-stats)
 
+<div align="center">
+  
+# Profile Visitor
+
+![Visitor Count](https://profile-counter.glitch.me/Abdullah272056/count.svg)
+
+</div>
