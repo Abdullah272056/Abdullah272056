@@ -8,10 +8,47 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... E-mail: abdullah272056@gmail.com  Mobile: +8801994-215664
 - ⚡ Fun fact: ...Dont Talk about Crush I only Know About App Crash
 
-[<img src='https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/PlayStore-128.png' alt='Play Store' height='40'>](https://play.google.com/store/apps/developer?id=Abdullah+Al+Aman) 
-[<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-al-aman-922013194/) [<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/facebook-128.png' alt='facebook' height='40'>](https://www.facebook.com/Abdullah328338)
 
-![Abdullah github stats](https://github-readme-stats.vercel.app/api?username=Abdullah272056&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah272056&layout=compact)](https://github.com/Abdullah272056/github-readme-stats)
+
+<div align="left">
+  
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/PlayStore-128.png' alt='Play Store' height='40'>](https://play.google.com/store/apps/developer?id=Abdullah+Al+Aman) 
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-al-aman-922013194/) 
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/facebook-128.png' alt='facebook' height='40'>](https://www.facebook.com/Abdullah328338)
+
+</div>
+
+
+
+
+<div align="left">
+  
+<a href="https://github.com/Abdullah272056">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abdullah272056&show_icons=true&theme=radical&line_height=40&count_private=true"
+</a>
+  
+
+<!-- <a href="https://github.com/Abdullah272056?tab=repositories">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdullah272056&theme=radical&hide_langs_below=0" />
+</a>
+
+</div> -->
+
+
+
+<div align="left">
+  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah272056&&theme=radical) 
+
+</div>
+
+
+
+
+  
+
+
+
 
 <div align="center">
   
@@ -20,3 +57,4 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/Abdullah272056/count.svg)
 
 </div>
+
