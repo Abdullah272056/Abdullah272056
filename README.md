@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 </a>
   
 
-<!-- <a href="https://github.com/Abdullah272056?tab=repositories">
+<a href="https://github.com/Abdullah272056?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdullah272056&theme=radical&hide_langs_below=0" />
 </a>
 
-</div> -->
+</div>
 
 
 
-<div align="left">
+<!-- <div align="left">
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah272056&&theme=radical) 
 
-</div>
+</div> -->
 
 
 
@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-# Profile Visitor
+
+<h1 style="color:red">Profile Visitor</h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/Abdullah272056/count.svg)
 
