@@ -4,7 +4,7 @@ I am a person who is very passionate about software development since my childho
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Mobile Application Development
-- 💬 Ask me about ... Mobile Application Development
+- 💬 Ask me about ... Mobile Application Development(Android and IOS)
 - 📫 How to reach me: ... E-mail: abdullah272056@gmail.com  Mobile: +8801994-215664
 - ⚡ Fun fact: ...Dont Talk about Crush I only Know About App Crash
 
