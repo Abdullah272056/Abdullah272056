@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
+<!-- <div align="center">
   
 
 <h1 style="color:red">Profile Visitor</h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/Abdullah272056/count.svg)
 
-</div>
+</div> -->
 
