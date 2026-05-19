@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Dont Talk about Crush I only Know About App Crash
 
 
-
+ 
 <div align="left">
   
 [<img src='https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/PlayStore-128.png' alt='Play Store' height='40'>](https://play.google.com/store/apps/developer?id=Abdullah+Al+Aman) 
