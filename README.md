@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdullah272056&theme=radical&hide_langs_below=0" />
 </a>
 
-</div>
+</div> 
 
 
 
